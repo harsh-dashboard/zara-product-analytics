@@ -37,7 +37,7 @@ Key tasks performed:
 - Aggregating sales metrics
 - Category-wise analysis
 
-![Python Analysis](screenshots/python_analysis.png)
+![Python Analysis](Screenshots/python_analysis.png)
 
 ## SQL Business Queries
 
@@ -54,7 +54,7 @@ FROM zara_products
 GROUP BY category
 ORDER BY SUM(sales_volume) DESC;
 
-![SQL Query](screenshots/sql_analysis.png)
+![SQL Query](Screenshots/sql_analysis.png)
 
 ## Interactive Power BI Dashboard
 
@@ -68,7 +68,7 @@ Features:
 - Dynamic filters
 - KPI indicators
 
-  ![Dashboard](screenshots/dashboard.png)
+  ![Dashboard](Screenshots/dashboard.png)
 
   ## Key Insights
 
